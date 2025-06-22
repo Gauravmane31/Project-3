@@ -25,12 +25,6 @@ This project is a simple static webpage for **GeeksforGeeks TechCon 2025** — a
 ├── Style.css
 ```
 
-## Setup Instructions
-
-1. Clone or download this repository.
-2. Make sure that both `Index.html` and `Style.css` are in the same directory.
-3. Open `Index.html` in any modern web browser to view the webpage.
-
 ## Features
 
 - Full webpage structure with clear sections.
